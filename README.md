@@ -121,6 +121,7 @@ Contributions are welcome! Please:
 Report issues or suggestions on the [GitHub Issues page](https://github.com/ishanoshada/ApacheStatusExtractor/issues).
 
 
+
 **Repository Views** ![Views](https://profile-counter.glitch.me/apache-status/count.svg)
 
 ## Acknowledgments
